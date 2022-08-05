@@ -1,4 +1,0 @@
-#Tue Aug 02 11:58:01 CEST 2022
-base.0=/Users/macbookpro/Documents/GitHub/TUB_2022/TUB_0801_2/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
